@@ -2,7 +2,7 @@ name: Auto EUserv
 
 on:
   schedule:
-    - cron: '0 12 21,26 * *'
+    - cron: '0 12 18,26 * *'
   workflow_dispatch:
 
 jobs:
